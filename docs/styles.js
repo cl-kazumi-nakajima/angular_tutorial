@@ -439,7 +439,7 @@ module.exports = content.locals || {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/koji.nakamura/work/angular_tutorial/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /Users/kazumi.nakajima/Opt/angular_tutorial/src/styles.css */"./src/styles.css");
 
 
 /***/ })
